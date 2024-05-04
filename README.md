@@ -33,6 +33,7 @@ Code design in Arduino projects is just as critical as the hardware configuratio
 The synergy between hardware and code design defines the success of an Arduino project. For example, if an Arduino is used to control a greenhouse environment, hardware design would involve selecting appropriate sensors for temperature and humidity, actuators for windows or fans, and perhaps a display for real-time monitoring. The corresponding code would need to efficiently read sensor data, make decisions to adjust the environment, and possibly log data or alert the user to any critical changes. Testing and iterative refinement are key, as they ensure that both the hardware setup and the software work seamlessly together to meet the project's objectives. By thoughtfully designing both the hardware and the software, makers can ensure their projects are both functional and robust.
 
 #
+### Notes
 
 <br>
 </details>
