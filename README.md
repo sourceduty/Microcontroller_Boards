@@ -169,7 +169,7 @@ The choice between these two designs hinges on the specific requirements of the 
 #
 ### Related Links
 
-[Electronics Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
+[Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
 [Soil Analyzer](https://github.com/sourceduty/Soil_Analyzer)
 <br>
