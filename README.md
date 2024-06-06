@@ -179,6 +179,8 @@ The choice between these two designs hinges on the specific requirements of the 
 [Insect_Box](https://github.com/sourceduty/Insect_Box)
 <br>
 [Weather_Pi](https://github.com/sourceduty/Weather_Pi)
+<br>
+[Sugar Sensor](https://github.com/sourceduty/Sugar_Sensor)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
