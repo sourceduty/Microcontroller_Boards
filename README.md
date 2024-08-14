@@ -181,6 +181,8 @@ The choice between these two designs hinges on the specific requirements of the 
 [Weather_Pi](https://github.com/sourceduty/Weather_Pi)
 <br>
 [Sugar Sensor](https://github.com/sourceduty/Sugar_Sensor)
+<br>
+[Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
