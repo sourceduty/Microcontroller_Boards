@@ -183,6 +183,10 @@ The choice between these two designs hinges on the specific requirements of the 
 [Sugar Sensor](https://github.com/sourceduty/Sugar_Sensor)
 <br>
 [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
