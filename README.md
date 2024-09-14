@@ -1,6 +1,8 @@
-![Microcontroller Boards](https://github.com/sourceduty/Microcontroller_Boards/assets/123030236/0dabdb09-76fc-4897-aba0-3f59dfba0c07)
+![perefct](https://github.com/user-attachments/assets/50542e67-b05b-4425-87b7-6d85aaff2b8e)
 
 > Concept ideas and related information about Arduino and Raspberry Pi microcontroller-based platforms.
+
+#
 
 Arduino boards are microcontroller-based platforms that simplify electronic component integration for various projects, making them accessible to both novices and experts. Key models include the Arduino Uno, ideal for beginners with its user-friendly interface; Arduino Mega, which offers extensive I/O capabilities for complex projects; Arduino Nano, known for its compact size; and Arduino Leonardo and Micro, both of which are notable for USB device emulation capabilities. These boards support numerous applications, from robotics to home automation, by providing a structured yet flexible development environment.
 
@@ -166,6 +168,10 @@ The choice between these two designs hinges on the specific requirements of the 
 
 <br>
 </details>
+
+#
+
+![Microcontroller Boards](https://github.com/sourceduty/Microcontroller_Boards/assets/123030236/0dabdb09-76fc-4897-aba0-3f59dfba0c07)
 
 #
 ### Related Links
