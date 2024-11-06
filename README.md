@@ -214,6 +214,10 @@ The choice between these two designs hinges on the specific requirements of the 
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 <br>
 [Hack Automation](https://github.com/sourceduty/Hack_Automation)
+<br>
+[Cluster Computing](https://github.com/sourceduty/Cluster_Computing/tree/main)
+<br>
+[Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
