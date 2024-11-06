@@ -29,6 +29,20 @@ Microcontroller boards, such as Arduino, ESP32, and Raspberry Pi, are widely use
 Projects utilizing microcontroller-based machine control often involve a blend of mechanics, electronics, and software, encouraging users to explore interdisciplinary skills. For example, an Arduino board can control the movements of a robotic arm in a step-by-step process, where users can program the board to perform tasks like sorting objects or drawing patterns. Similarly, a Raspberry Pi, with its more advanced processing capabilities, can control machines that require more computational power, such as autonomous robots that navigate spaces based on real-time data from sensors. These projects provide hands-on learning in machine control, helping users understand how machines operate and are controlled, without the need for professional-grade, factory-level equipment.
 
 #
+
+| Microcontroller Board | Processor Type              | System Architecture | Common Uses                       | Example Projects                   |
+|-----------------------|-----------------------------|---------------------|-----------------------------------|------------------------------------|
+| Arduino Uno           | ATmega328P (8-bit AVR)      | Single-threaded    | Basic control tasks, sensors     | LED control, temperature monitoring|
+| Raspberry Pi          | ARM Cortex-A series         | Multi-core         | IoT, edge computing, robotics    | Home automation, media server      |
+| ESP32                 | Dual-core Xtensa LX6        | Multi-threaded     | IoT, Wi-Fi-enabled applications  | Smart lights, wireless sensors     |
+| Teensy 4.0            | ARM Cortex-M7 (32-bit)      | Single-core        | High-speed, real-time processing | Audio synthesis, high-speed data acquisition |
+| STM32 (Nucleo)        | ARM Cortex-M series         | Single-core        | Industrial control, sensors      | Motor control, real-time data logging |
+| BeagleBone Black      | ARM Cortex-A8               | Multi-core         | IoT, real-time data handling     | Robotics, networked control systems |
+| Particle Photon       | ARM Cortex-M3               | Single-core        | IoT with cloud connectivity      | Remote environmental monitoring, cloud-based sensors |
+| Adafruit Feather      | Varies (ATmega, Cortex-M)   | Single-threaded    | Portable, low-power applications | Wearables, portable data loggers   |
+| NodeMCU               | ESP8266 (32-bit LX106)      | Single-threaded    | Wi-Fi-based IoT applications     | Web-controlled devices, wireless data monitoring |
+
+#
 ### Notes
 
 <details><summary>Arduino Design</summary>
