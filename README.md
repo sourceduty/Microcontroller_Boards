@@ -43,6 +43,15 @@ Projects utilizing microcontroller-based machine control often involve a blend o
 | NodeMCU               | ESP8266 (32-bit LX106)      | Single-threaded    | Wi-Fi-based IoT applications     | Web-controlled devices, wireless data monitoring |
 
 #
+### Board Calibration
+
+Calibrating microcontroller boards, such as those used in Arduino and Raspberry Pi projects, is essential for improving the accuracy and reliability of sensor data. These boards are commonly used to interface with various sensors, which often produce raw data that can be affected by environmental factors, sensor drift, and component variability. Calibration ensures that the sensor readings align with known reference values, compensating for these deviations and producing more accurate results. For example, a temperature sensor might give slightly incorrect readings due to manufacturing tolerances or environmental conditions. Calibration corrects these errors, providing more reliable data for use in the system.
+
+Arduino and Raspberry Pi boards typically come with general-purpose calibration, but this is often insufficient for precise applications. The microcontroller units (MCUs) on these boards are not individually fine-tuned for every possible sensor or use case. While some components, such as internal clocks or analog-to-digital converters (ADC), may be calibrated to a degree by the manufacturer, the accuracy still depends on external factors like sensor type, voltage fluctuations, and temperature. Consequently, specific sensors or modules connected to these boards often require additional manual calibration by the user. This is especially important in applications like robotics, environmental monitoring, or medical devices, where precise measurements are critical.
+
+Factory calibration on microcontroller boards ensures basic functionality, but it doesn’t account for the variability of external sensors or the specific conditions in which the board will be used. For Arduino and Raspberry Pi projects, custom calibration routines are often necessary to improve performance. This could involve adjusting parameters in the code, performing two-point calibrations for temperature or humidity sensors, or using advanced filtering techniques like Kalman filters for noisy data. In essence, proper calibration maximizes the accuracy of both the sensors and the boards, ensuring that the data gathered is reliable and suitable for the project at hand.
+
+#
 ### Notes
 
 <details><summary>Arduino Design</summary>
